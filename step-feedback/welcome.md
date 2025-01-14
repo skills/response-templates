@@ -8,7 +8,7 @@
 
 As you complete each step, I will respond in the comments to:
 
-- check your work and give feedback.
+- check your work and give feedback
 - share next steps
 - occasionally share tips
 - congratulate you when you finish!
