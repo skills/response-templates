@@ -1,10 +1,10 @@
 # Skills Response Templates
 
-A collection of responses for use in Skills courses.
+A collection of responses for use in Skills exercises.
 
 ## Template Collections
 
-- `/readme/*` - templates intended for updating a course's root readme file.
+- `/readme/*` - templates intended for updating an exercise's root readme file.
 - `/step-feedback/*` - templates for sharing step progress, grading pass/fail, and congratulations. Typically used for issue comments.
 
 ## Template Variables
