@@ -15,7 +15,7 @@ Some checks failed. Please review the results below and try again.
 Time to find the bug! 🤔
 {{/passed}}
 
-| Name | Status | Message |
+| Status | Name | Message |
 | --- | --- | --- |
 {{#results_table}}
 | {{#passed}}✅ - Pass{{/passed}}{{^passed}}❌ - Fail{{/passed}} | {{ name }} | {{ message }} |
